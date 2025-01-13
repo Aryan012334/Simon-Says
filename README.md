@@ -1,2 +1,2 @@
 # Simon-Says
- Simon say game which i built.
+ Simon say game.
